@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.log
+dump.rdb # Redis dump file
+
+# Node.js / React
+node_modules/
+build/
+.env # Environment variables
+
+# macOS
+.DS_Store
+
+# IDE-specific files (uncomment if you use these IDEs)
+# .idea/ # PyCharm/IntelliJ IDEA
+# .vscode/ # VS Code
